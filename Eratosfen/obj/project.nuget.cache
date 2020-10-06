@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6/RBTcWVwuyYVOQ1EYlL2HUCg5n7Nu2u84OiaJYB37TCUxIRRsNpxwiLLGgarFI5oG2P4bVSdxvw5DPaqeJqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Eratosfen\\Eratosfen\\Eratosfen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

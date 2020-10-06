@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\bin\Debug\netcoreapp3.1\Eratosfen.exe
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\bin\Debug\netcoreapp3.1\Eratosfen.deps.json
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\bin\Debug\netcoreapp3.1\Eratosfen.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\bin\Debug\netcoreapp3.1\Eratosfen.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\bin\Debug\netcoreapp3.1\Eratosfen.dll
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\bin\Debug\netcoreapp3.1\Eratosfen.pdb
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\obj\Debug\netcoreapp3.1\Eratosfen.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\obj\Debug\netcoreapp3.1\Eratosfen.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\obj\Debug\netcoreapp3.1\Eratosfen.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\obj\Debug\netcoreapp3.1\Eratosfen.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\obj\Debug\netcoreapp3.1\Eratosfen.dll
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\obj\Debug\netcoreapp3.1\Eratosfen.pdb
+C:\Users\Lenovo\source\repos\Eratosfen\Eratosfen\obj\Debug\netcoreapp3.1\Eratosfen.genruntimeconfig.cache
